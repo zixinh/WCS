@@ -1,1 +1,1 @@
-COG260 Course Project by Zixin Huang and , instructed by Professor Yang Xu
+COG260 Course Project by Zixin Huang and Jiayang Ying, instructed by Professor Yang Xu
